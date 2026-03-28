@@ -1,34 +1,31 @@
 # Capgemini-data-engineering-training
-In this practice, I started learning PySpark basics by working with small datasets. I understood how PySpark works with DataFrames and how we can perform simple operations on data.
-
-###What I Did 🔹 Created Spark Session
-
-First, I created a SparkSession, which is required to start working with PySpark.
-
-🔹 Created DataFrames
-
-I created two datasets:
-
-Customers data Orders data
-
-Then I converted them into PySpark DataFrames.
-
-🔹 Displayed Data
-
-I used .show() to see the data inside the DataFrames.
-
-🔹 Applied Filters
-
-I filtered the data based on conditions:
-
-Customers from Chennai Customers with age greater than 25
-
-This helped me understand how to extract specific data.
-
-🔹 Selected Columns
-
-I selected only required columns like customer name and city using .select().
-
-🔹 Used GroupBy
-
-I grouped the data based on city and counted the number of customers in each city.
+#Week0 phase 1
+📌 PySpark Basics Practice
+This repository contains beginner-level practice work on PySpark, focusing on working with small datasets using DataFrames.
+🚀 Overview
+This project was created by my friend as part of learning PySpark fundamentals. It demonstrates how to create DataFrames and perform basic data operations.
+🔹 Features
+✔️ Created and initialized a SparkSession
+✔️ Built sample datasets (Customers & Orders)
+✔️ Converted data into PySpark DataFrames
+✔️ Displayed data using .show()
+✔️ Applied filtering conditions
+✔️ Selected specific columns
+✔️ Performed grouping and aggregation
+📂 Operations Performed
+🔸 DataFrame Creation
+Created customer and order datasets
+Converted them into PySpark DataFrames
+🔸 Data Display
+Used .show() to view the dataset
+🔸 Filtering
+Customers from Chennai
+Customers with age > 25
+🔸 Column Selection
+Selected required columns like name and city
+🔸 GroupBy & Aggregation
+Grouped data by city
+Counted number of customers in each city
+🛠️ Technologies Used
+Python 🐍
+PySpark 🔥
