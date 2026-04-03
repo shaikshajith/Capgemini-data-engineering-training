@@ -1,5 +1,5 @@
-#Week0 Phase 2 
-#Customer Orders Analysis using PySpark
+# Week0 Phase 2 
+# Customer Orders Analysis using PySpark
 What We Have Done
 
 We created two datasets:
@@ -20,7 +20,7 @@ Sorted customers based on their total spending in descending order
 
 We also implemented all these operations using SQL queries, showing how the same logic can be applied in both PySpark and SQL environments.
 
-#Outcomes
+# Outcomes
 
 How to use PySpark DataFrames for data processing
 Performing different types of joins (inner join, left join)
