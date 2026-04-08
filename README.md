@@ -1,18 +1,16 @@
 # Capgemini Data Engineering Training
 
 ### 📅 Week 0
-- [Week0/Phase 1](./Week0/)
-- [Week0/Phase 2](./Week0/Phase2/)
-- [Week0/Phase 3](./Week0/Phase3/)
-- [Week0/Phase 4](./Week0/Phase4/)
-- [Week0/Phase 4A](./Week0/Phase4A/)
-- [Week0/Phase 5](./Week0/Phase5/)
-- [Week0/Phase 6](./Week0/Phase6/)
-
+- [Week0/Phase 1]
+- [Week0/Phase 2]
+- [Week0/Phase 3]
+- [Week0/Phase 4]
+- [Week0/Phase 5]
+- [Week0/Phase 6]
 ### 📅 Week 1
-- [Week1/Day 1](./Week1/Day1/)
-- [Week1/Day 2](./Week1/Day2/)
-- [Week1/Day 3](./Week1/Day3/)
+- [Week1/Day 1]
+- [Week1/Day 2]
+- [Week1/Day 3]
 
 ### ✅ Week 0 (Completed)
 
