@@ -12,6 +12,7 @@
 ### 📅 Week 1
 - [Week1/Day 1](./Week1/Day1/)
 - [Week1/Day 2](./Week1/Day2/)
+- [Week1/Day 3](./Week1/Day3/)
 
 ### ✅ Week 0 (Completed)
 
@@ -63,7 +64,10 @@
 - Implemented SQL operations within Databricks environment  
 - Performed `GROUP BY` and aggregation analysis  
 - Applied `HAVING` clauses for filtered aggregations  
-- Worked with different types of `JOIN` operations to combine datasets  
+- Worked with different types of `JOIN` operations to combine datasets
+#### 🔹 Day 3  SQL-Case and Window Funtions
+- Implemented CASE statements to apply conditional logic within queries, enabling dynamic column creation and categorization of data based on business rules.
+- Worked with window functions (such as ROW_NUMBER(), RANK(), and OVER()), allowing advanced analytics like ranking, partitioning, and performing calculations across specific data segments    without collapsing rows.
 
 --- 
 
