@@ -11,6 +11,7 @@
 - [Week1/Day 1]
 - [Week1/Day 2]
 - [Week1/Day 3]
+- [Week1/Day 4]
 
 ### ✅ Week 0 (Completed)
 
@@ -66,6 +67,10 @@
 #### 🔹 Day 3  SQL-Case and Window Funtions
 - Implemented CASE statements to apply conditional logic within queries, enabling dynamic column creation and categorization of data based on business rules.
 - Worked with window functions (such as ROW_NUMBER(), RANK(), and OVER()), allowing advanced analytics like ranking, partitioning, and performing calculations across specific data segments    without collapsing rows.
+#### 🔹 Day 4 Regex, Null and Date funtions
+- Learned how to work with date and numeric data in PySpark, including extracting values and performing calculations.
+- Understood how to use regular expressions (regex) for data cleaning, filtering, and pattern matching.
+- Gained knowledge of handling null and missing values using functions like dropna() and fillna().
 
 --- 
 
