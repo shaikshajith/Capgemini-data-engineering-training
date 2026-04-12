@@ -5,10 +5,9 @@
 - [Week0/Phase 2]
 - [Week0/Phase 3]
 - [Week0/Phase 4]
-- [Week0/Phase 5]
-- [Week0/Phase 6]
+
 ### 📅 Week 1
-- [Week1/Day 1]
+- [Week1/Day 1 Phase 5 Phase 6]
 - [Week1/Day 2]
 - [Week1/Day 3]
 - [Week1/Day 4]
